@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8C41BEBA1B958F63005BBAD2"
+               BlueprintIdentifier = "059D37711F2886B4004CF389"
                BuildableName = "UITableView-WaterFall.app"
                BlueprintName = "UITableView-WaterFall"
                ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
@@ -32,9 +32,19 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8C41BEDB1B958F63005BBAD2"
+               BlueprintIdentifier = "059D378A1F2886B4004CF389"
                BuildableName = "UITableView-WaterFallTests.xctest"
                BlueprintName = "UITableView-WaterFallTests"
+               ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "059D37951F2886B4004CF389"
+               BuildableName = "UITableView-WaterFallUITests.xctest"
+               BlueprintName = "UITableView-WaterFallUITests"
                ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C41BEBA1B958F63005BBAD2"
+            BlueprintIdentifier = "059D37711F2886B4004CF389"
             BuildableName = "UITableView-WaterFall.app"
             BlueprintName = "UITableView-WaterFall"
             ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
@@ -65,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C41BEBA1B958F63005BBAD2"
+            BlueprintIdentifier = "059D37711F2886B4004CF389"
             BuildableName = "UITableView-WaterFall.app"
             BlueprintName = "UITableView-WaterFall"
             ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
@@ -84,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C41BEBA1B958F63005BBAD2"
+            BlueprintIdentifier = "059D37711F2886B4004CF389"
             BuildableName = "UITableView-WaterFall.app"
             BlueprintName = "UITableView-WaterFall"
             ReferencedContainer = "container:UITableView-WaterFall.xcodeproj">
